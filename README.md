@@ -1,5 +1,5 @@
 # WSQ - Data Analytics and Visualization with Python
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [WSQ - Data Analytics and Visualization with Python](https://www.tertiarycourses.com.sg/wsq-python-data-analytics-visualization.html) course. 
 
